@@ -11,4 +11,5 @@
 
 ##  3-column preview card component
 → HTML e CSS
+
 → [Preview](https://alex-almeidajr.github.io/frontend-challenge-02/)

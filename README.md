@@ -10,4 +10,5 @@
 → [Linkedin](https://www.linkedin.com/in/alex-almeida-junior-96856b8b/)
 
 ##  3-column preview card component
+→ HTML e CSS
 → [Preview](https://alex-almeidajr.github.io/frontend-challenge-02/)
